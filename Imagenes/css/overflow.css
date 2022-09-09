@@ -1,0 +1,31 @@
+.w{
+background-color: rgb(175, 100, 237);
+height: 50pxpx;
+width: 200px;
+overflow: visible;
+}
+.A{
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    overflow: scroll;
+    border-style: solid;
+}
+.B{
+    background-color: crimson;
+    height: 200px;
+    margin-top: 10px;
+    width: 200px;
+    overflow: auto;
+    border-style: solid;
+}
+.C{
+background-color: cyan;
+height: 200px;
+margin-top: 10px;
+width: 200px;
+overflow: hidden;
+border-style: solid;
+}
+

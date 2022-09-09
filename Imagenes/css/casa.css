@@ -1,0 +1,69 @@
+body{
+    background-color: cadetblue;
+width: 500px;
+height: 600px;
+
+}
+.C{
+    background-color: chartreuse;
+    width: 200px;
+    height: 40px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+
+}
+.A{
+    background-color: blue;
+    width: 160px;
+    height: 160px;
+    margin-left: 20px;
+    padding-top: 16px;
+   border-width: 3px;
+   border-style: solid;
+   border-color: black;
+}
+.P{
+    background-color: crimson;
+    width: 35px;
+    height: 35px;
+    margin-left: 5px;
+    margin-bottom: 16px;
+    padding-top: 16px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+
+}
+.E{
+    background-color: rgb(236, 0, 0);
+    width: 30px;
+    height: 30px;
+    margin-left:120px;
+    margin-top: 45px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+
+
+}
+.Y{
+    background-color: rgb(255, 25, 140);
+    width: 30px;
+    height: 30px;
+    margin-left: 60px;
+    margin-top: 7px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+
+}
+.B{
+    background-color: azure;
+    width: 230px;
+    height: 20px;
+    border-style: dashed;
+    border-bottom: brown;
+    border-left-color: blue;
+
+}

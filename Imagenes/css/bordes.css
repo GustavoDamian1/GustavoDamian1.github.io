@@ -1,0 +1,92 @@
+.Punto{
+    font-size: 40px;
+    width: 1800px;
+    height: 50px;
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px orange;
+    border: 5px;
+    border-top-style: dotted;
+    border-left-style: dashed;
+border-right-style: dashed;
+border-bottom-style: dotted;
+border-top-color: green;
+border-bottom-color: royalblue;
+border-left-color: blue;
+border-right-color: orange;
+margin: 50px;
+margin-left: 50px;
+}
+.A{
+    font-size: 40px;
+    width: 1795px;
+    height: 50px;
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px olivedrab;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 10px;
+    border-right: 10px;
+    border-top-style: groove;
+    border-left-style: groove;
+    border-right-style: groove;
+    border-bottom-style: groove;
+    border-top-color: aquamarine;
+    border-bottom-color: blueviolet;
+    border-left-color: brown;
+    border-right-color: chartreuse;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.B{
+    width: 1800px;
+    height: 150px;
+    border: 5px;
+    border-top-style: dotted;
+    border-left-style: dashed;
+    border-right-style: dashed;
+    border-bottom-style: dotted;
+    border-top-color: darkred;
+    border-bottom-color: cornflowerblue;
+    border-left-color: darkblue;
+    border-right-color: crimson;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.C{
+    width: 5px 5px 5px;
+    font-size: 40px;
+    width: 1700px;
+    height: 50px;
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px orange;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 10px;
+    border-right: 10px;
+    border-left-style: groove;
+    border-top-style: groove;
+    border-right-style: groove;
+    border-bottom-style: groove;
+    border-top-color: blueviolet;
+    border-bottom-color: darkgray;
+    border-left-color: darkmagenta;
+    border-right-color: crimson;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.D{
+    border: 5px solid black;
+    padding: 10px;
+    font-size: larger;
+    text-align: center;
+}
+
+  
+
+
+
+
+    

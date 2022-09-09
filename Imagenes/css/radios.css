@@ -1,0 +1,48 @@
+.A{
+    background-color: fuchsia;
+    width: 150px;
+    height: 100px;
+    border-radius: 0%;
+    border-style: solid;
+}
+.B{
+    background-color: deeppink;
+    width: 150px;
+    height: 100px;
+    border-radius: 0px 0px 50% 50%;
+    margin: 30px;
+    border-style: solid;
+}
+.C{
+    background-color: deeppink;
+    width: 150px;
+    height: 100px;
+    border-radius: 50px 0% 50px 0%;
+    margin: 30px;
+    border-style: solid;
+}
+.D{
+    background-color: deeppink;
+    width: 150px;
+    height: 100px;
+    border-radius: 0px 50% 0px 50%;
+    margin-top: 30px;
+    border-style: solid;
+}
+.E{
+    background-color: deeppink;
+    height: 100px;
+    width: 150px;
+margin-top: 50px;
+border-radius: 50%;
+border-style: solid;
+}
+.F{
+    background-color: deeppink;
+    height: 100px;
+    width: 150px;
+    border-radius: 50px 50% 0px 0%;
+    margin-top: 30px;
+    border-style: solid;
+
+}

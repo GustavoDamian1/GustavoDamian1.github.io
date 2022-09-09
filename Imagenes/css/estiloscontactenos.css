@@ -1,0 +1,29 @@
+*{background-color: rgb(112, 240, 240);
+    text-align: center;
+}
+h2{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+label{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contactenos{
+    color: darkmagenta;
+}
+h2{
+    color: darkred;
+}
+.Bienvenidos{
+    color: rgb(255, 0, 0);
+}
+.ofertas{
+    color: rgb(2, 0, 0);
+}
+h1{
+    color: indigo;
+}
+h1{
+    color: darkviolet;
+}

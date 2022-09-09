@@ -1,0 +1,350 @@
+.contenedor{
+    background-color:rgb(255, 145, 0);
+    width: 1900px;
+    height: 900px;
+    position: absolute;
+}
+.A{
+    background-color:rgb(201, 89, 89);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   
+}
+.B{
+    background-color:rgb(253, 25, 25);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   top: 100px;
+}
+.C{
+    background-color:rgb(17, 248, 9);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   top: 200px;
+}
+.D{
+    background-color:yellow;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   top: 300px;
+}
+.E{
+    background-color:rgb(248, 9, 101);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   top: 400px;
+}
+.F{
+    background-color:rgb(133, 9, 248);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   top: 500px;
+}
+.G{
+    background-color:red;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   top: 600px;
+}
+.H{
+    background-color:rgb(27, 202, 255);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   top: 700px;
+}
+.I{
+    background-color:rgb(248, 9, 156);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   top: 800px;
+}
+.J{
+    background-color:rgb(111, 0, 255);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 100px;
+   
+}
+.K{
+    background-color:rgb(0, 255, 170);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 200px;
+}
+.L{
+    background-color:rgb(248, 9, 9);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 300px;
+}
+.M{
+    background-color:rgb(228, 9, 248);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 400px;
+}
+.O{
+    background-color:rgb(9, 25, 248);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 500px;
+}
+.P{
+    background-color:rgb(0, 255, 0);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 600px;
+}
+.Q{
+    background-color:rgb(255, 0, 221);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 700px;
+   
+}
+.R{
+    background-color:rgb(248, 9, 9);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 800px;
+}
+.AA{
+    background-color:rgb(224, 248, 9);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 900px;
+}
+.AB{
+    background-color:rgb(9, 73, 248);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 1000px;
+}
+.AC{
+    background-color:rgb(54, 54, 54);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 1100px;
+}
+.AD{
+    background-color:rgb(248, 9, 9);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 1200px;
+}
+.AE{
+    background-color:rgb(33, 9, 248);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 1300px;
+}
+.AF{
+    background-color:rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 1400px;
+}
+.AG{
+    background-color:rgb(9, 248, 136);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 1500px;
+}
+.AH{
+    background-color:rgb(53, 9, 248);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 1600px;
+}
+.AI{
+    background-color:rgb(189, 19, 19);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 1700px;
+}
+.AJ{
+    background-color:rgb(228, 9, 248);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 1800px;
+}
+.AK{
+    background-color:rgb(248, 9, 9);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   left: 1900px;
+}
+.AO{
+    background-color:rgb(73, 11, 11);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 100px;
+}
+.AL{
+    background-color:rgb(250, 9, 170);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 300px;
+}
+.AM{
+    background-color:rgb(0, 68, 255);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 400px;
+}
+.AN{
+    background-color:rgb(38, 0, 56);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 500px;
+}
+.AP{
+    background-color:rgba(153, 0, 255, 0.993);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 600px;
+}
+.AQ{
+    background-color:rgba(24, 224, 91, 0.993);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 700px;
+}
+.AS{
+    background-color:blue;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 800px;
+}
+.AT{
+    background-color:blueviolet;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 900px;
+}
+.AU{
+    background-color:aqua;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 1000px;
+}
+.AV{
+    background-color:beige;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 1100px;
+}
+.AW{
+    background-color:chartreuse;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 1200px;
+}
+.AX{
+    background-color:darkblue;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 1300px;
+}
+.AY{
+    background-color:cyan;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 1400px;
+}
+.AZ{
+    background-color:slategray;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 1500px;
+}
+
+
+.BA{
+    background-color:springgreen;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 1600px;
+}
+.BC{
+    background-color:darkred;
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 1700px;
+}
+.BD{
+    background-color:rgb(0, 26, 255);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+   margin-top: 100px;
+   left: 1800px;
+}
+.BE{
+    background-color:rgb(255, 0, 0);
+    width: 100px;
+    height: 100px;
+   position: absolute;
+  
+   top: 100px;
+}
